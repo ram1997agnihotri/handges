@@ -3,7 +3,7 @@
 */
 int xPin=A3; //X axis input
 int yPin=A2; //Y axis input
-int D1=10,D2=11,D3=12,D4=13; //Output pins to be connected to 10, 11, 12, 13 of Decoder IC
+int D1=10,D2=11,D3=12,D4=13; //Output pins to be connected to 10, 11, 12, 13 of Encoder IC
 long x; //Variabe for storing X coordinates
 long y; //Variabe for storing Y coordinates
 void setup()
